@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "bbenoist.nix",
+    "ms-python.python",
+    "editorconfig.editorconfig"
+  ]
+}
